@@ -1,5 +1,20 @@
 # KGïA: Leveraging Disease-Specific Topologies and Counterfactual Relationships in Knowledge Graphs for Inductive Reasoning in Drug Repurposing
 
+<table style="border: none">
+<tr style="border: none">
+<td width="70%" valign="top" style="border: none">
+<img src="https://github.com/user-attachments/assets/1ed8d5d2-d8c9-4bce-9d85-329c6c79017c" alt="workflow" width="100%">
+</td>
+<td width="30%" valign="top" style="border: none">
+<p>We introduce <b>KGïA</b>, an <b>i</b>nductive <b>KG</b> <b>a</b>ugmentation method that utilizes counterfactual relationships based on disease-specific topologies. By aligning augmentation with the intrinsic topological features of disease entities, KGïA enhances the KG in a domain-specific manner, facilitating the discovery of a broader range of novel drug candidates tailored to specific diseases.</p>
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/a2567fbe-3034-47d7-8385-f90176a6fa3b" alt="dataschema" width="90%">
+</div>
+</td>
+</tr>
+</table>
+
 ## How to Run KGïA
 
 ### 1. Data Splitting
